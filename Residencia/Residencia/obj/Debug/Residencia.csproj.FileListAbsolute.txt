@@ -1,0 +1,5 @@
+/home/john/Rider/Residencia/Residencia/bin/Debug/Residencia.exe
+/home/john/Rider/Residencia/Residencia/bin/Debug/Residencia.pdb
+/home/john/Rider/Residencia/Residencia/obj/Debug/Residencia.csprojAssemblyReference.cache
+/home/john/Rider/Residencia/Residencia/obj/Debug/Residencia.exe
+/home/john/Rider/Residencia/Residencia/obj/Debug/Residencia.pdb
